@@ -1,0 +1,149 @@
+{
+ 
+  "AppRedirect": {
+    "status": false,
+    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
+  },
+  
+  
+   "AdsController": {
+
+    "AdInterval"          : 3,
+
+    "HuaweiAppId"         : "114185681",
+    
+    "HuaweiBanner"        : "testw6vs28auh345",
+    "HuaweiInterstitialAd": "testb4znbuh3n245",
+    "HuaweiRewardAd"      : "testx9dtjwj8hp454",
+    "HuaweiNativeAd"      : "testy63txaom8646",
+    "NativeAdRow"         : 5
+
+  },
+
+  "VpnController": {
+    "VpnUserName": "7yJXLkNRHvH4DO2B",
+    "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
+    "VpnList": [
+      {
+        "vpnName": "United Arab Emirates",
+        "vpnLocked": false,
+        "vpnIso": "ae",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/emirates.ovpn"
+      },
+      {
+        "vpnName": "Germany",
+        "vpnLocked": false,
+        "vpnIso": "de",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/de.ovpn"
+      },
+      {
+        "vpnName": "Saudi Arabia",
+        "vpnLocked": false,
+        "vpnIso": "sa",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/saudia.ovpn"
+      },
+      {
+        "vpnName": "United States",
+        "vpnLocked": false,
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/us.ovpn"
+      },
+      {
+        "vpnName": "United Kingdom",
+        "vpnLocked": false,
+        "vpnIso": "gb",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/uk.ovpn"
+      },
+      {
+        "vpnName": "France",
+        "vpnLocked": false,
+        "vpnIso": "fr",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Italy",
+        "vpnLocked": false,
+        "vpnIso": "it",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Spain",
+        "vpnLocked": false,
+        "vpnIso": "es",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Netherlands",
+        "vpnLocked": false,
+        "vpnIso": "nl",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Sweden",
+        "vpnLocked": false,
+        "vpnIso": "se",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Norway",
+        "vpnLocked": false,
+        "vpnIso": "no",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Finland",
+        "vpnLocked": false,
+        "vpnIso": "fi",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Switzerland",
+        "vpnLocked": false,
+        "vpnIso": "ch",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Belgium",
+        "vpnLocked": false,
+        "vpnIso": "be",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Austria",
+        "vpnLocked": false,
+        "vpnIso": "at",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Poland",
+        "vpnLocked": false,
+        "vpnIso": "pl",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Canada",
+        "vpnLocked": false,
+        "vpnIso": "ca",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "China",
+        "vpnLocked": false,
+        "vpnIso": "cn",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "India",
+        "vpnLocked": false,
+        "vpnIso": "in",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      },
+      {
+        "vpnName": "Morocco",
+        "vpnLocked": false,
+        "vpnIso": "ma",
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+      }
+    ]
+  }
+}
