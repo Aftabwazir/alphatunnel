@@ -34,7 +34,7 @@
     "VpnList": [
       {
         "vpnName": "Emirates",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
@@ -46,13 +46,13 @@
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "sa",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
       },
       {
         "vpnName": "United States",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
       },
@@ -155,3 +155,4 @@
     ]
   }
 }
+
