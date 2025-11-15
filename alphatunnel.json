@@ -1,20 +1,31 @@
 {
   "AppRedirect": {
     "status": false,
-    "redirectURL": "https://appgallery.huawei.com/app/C114185681"
+    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
 
   "AdsController": {
 
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
+
+    "BannerNetwork": "yandex",
+    "InterstitialNetwork": "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork": "yandex",
+    "NativeNetwork": "yandex",
+
     "AdInterval": 3,
+    "NativeAdRow": 6,
 
-    "YandexAppId": "17743441",
-    "YandexBanner": "R-M-17743441-1",
-    "YandexInterstitialAd": "R-M-17743441-3",
-    "YandexRewardAd": "R-M-17743441-4",
-    "YandexNativeAd": "R-M-17743441-2",
-
-    "NativeAdRow": 5
+    "AdPlacement": {
+      "YandexAppId": "17743441",
+      "YandexBanner": "R-M-17743441-1",
+      "YandexInterstitial": "R-M-17743441-3",
+      "YandexInterstitialHome": "R-M-17743441-3",
+      "YandexReward": "R-M-17743441-4",
+      "YandexNative": "R-M-17743441-2",
+      "YandexSplash": "R-M-17743441-5"
+    }
   },
 
   "VpnController": {
@@ -22,34 +33,34 @@
     "VpnPassword": "cXLqmfeq6v2glE0MQJi9ljIlRm5FY0vF",
     "VpnList": [
       {
-        "vpnName": "United Arab Emirates",
-        "vpnLocked": false,
+        "vpnName": "Emirates",
+        "vpnLocked": true,
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/emirates.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
       {
-        "vpnName": "Germany",
+        "vpnName": "Deutschland",
         "vpnLocked": false,
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/de.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/saudia.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
       },
       {
         "vpnName": "United States",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/us.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
       },
       {
         "vpnName": "United Kingdom",
         "vpnLocked": false,
         "vpnIso": "gb",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/de/refs/heads/main/uk.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
       },
       {
         "vpnName": "France",
@@ -71,7 +82,7 @@
       },
       {
         "vpnName": "Netherlands",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "nl",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
@@ -85,7 +96,7 @@
         "vpnName": "Norway",
         "vpnLocked": false,
         "vpnIso": "no",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Zoult/.ovpn/refs/heads/main/Emirates/IPS_77.105.136.29_udp_40268.ovpn"
       },
       {
         "vpnName": "Finland",
@@ -131,7 +142,7 @@
       },
       {
         "vpnName": "India",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "in",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
       },
