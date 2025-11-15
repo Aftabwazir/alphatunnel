@@ -1,23 +1,20 @@
 {
- 
   "AppRedirect": {
     "status": false,
     "redirectURL": "https://appgallery.huawei.com/app/C114185681"
   },
-  
-  
-   "AdsController": {
 
-    "AdInterval"          : 3,
+  "AdsController": {
 
-    "HuaweiAppId"         : "114185681",
-    
-    "HuaweiBanner"        : "testw6vs28auh345",
-    "HuaweiInterstitialAd": "testb4znbuh3n245",
-    "HuaweiRewardAd"      : "testx9dtjwj8hp454",
-    "HuaweiNativeAd"      : "testy63txaom8646",
-    "NativeAdRow"         : 5
+    "AdInterval": 3,
 
+    "YandexAppId": "17743441",
+    "YandexBanner": "R-M-17743441-1",
+    "YandexInterstitialAd": "R-M-17743441-3",
+    "YandexRewardAd": "R-M-17743441-4",
+    "YandexNativeAd": "R-M-17743441-2",
+
+    "NativeAdRow": 5
   },
 
   "VpnController": {
