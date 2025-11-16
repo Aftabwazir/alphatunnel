@@ -1,30 +1,56 @@
 {
+ 
   "AppRedirect": {
     "status": false,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
   },
-
-  "AdsController": {
+  
+  
+  
+"AdsController": {
 
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
 
-    "BannerNetwork": "yandex",
-    "InterstitialNetwork": "yandex",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork": "yandex",
-    "NativeNetwork": "yandex",
 
-    "AdInterval": 3,
-    "NativeAdRow": 6,
+    "BannerNetwork"          : "yandex",
+    "InterstitialNetwork"    : "yandex",
+    "InterstitialNetworkHome": "yandex",
+    "RewardNetwork"          : "yandex",
+    "NativeNetwork"          : "yandex",
+    
+    "AdInterval"          : 3,
+    "NativeAdRow"         : 6,
 
     "AdPlacement": {
-      "YandexAppId": "17743441",
-      "YandexBanner": "R-M-17743441-1",
-      "YandexInterstitial": "R-M-17743441-3",
-      "YandexInterstitialHome": "R-M-17743441-3",
-      "YandexReward": "R-M-17743441-4",
-      "YandexNative": "R-M-17743441-2",
-      "YandexSplash": "R-M-17743441-5"
+
+      "AdMobBanner"           : "ca-app-pub-3940256099942544/6300978111",
+      "AdMobInterstitial"     : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobInterstitialHome" : "ca-app-pub-3940256099942544/1033173712",
+      "AdMobReward"           : "ca-app-pub-3940256099942544/5224354917",
+      "AdMobNative"           : "ca-app-pub-3940256099942544/2247696110",
+      
+      
+      "ApplovinKey"             : "",
+      "ApplovinBanner"          : "",
+      "ApplovinInterstitial"    : "",
+      "ApplovinInterstitialHome": "",
+      "ApplovinReward"          : "",
+      "ApplovinNative"          : "",
+
+      "HuaweiAppId"           : "",
+      "HuaweiBanner"          : "",
+      "HuaweiInterstitial"    : "",
+      "HuaweiInterstitialHome": "",
+      "HuaweiReward"          : "",
+      "HuaweiNative"          : "",
+
+      "YandexAppId"           :"",
+      "YandexBanner"          : "R-M--1",
+      "YandexInterstitial"    : "R-M--3",
+      "YandexInterstitialHome": "R-M--3",
+      "YandexReward"          : "R-M--4",
+      "YandexNative"          : "R-M--2"
+
     }
   },
 
@@ -34,7 +60,7 @@
     "VpnList": [
       {
         "vpnName": "Emirates",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/emirates.ovpn"
       },
@@ -46,13 +72,13 @@
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "sa",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
       },
       {
         "vpnName": "United States",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
       },
@@ -155,4 +181,3 @@
     ]
   }
 }
-
