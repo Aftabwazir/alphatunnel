@@ -62,7 +62,7 @@
         "vpnName": "Arab Emirates 1",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/uae.ovpn/refs/heads/main/emirates.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
@@ -74,13 +74,13 @@
         "vpnName": "Germany",
         "vpnLocked": false,
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/de.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Saudi Arabia",
         "vpnLocked": false,
         "vpnIso": "sa",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/saudia.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Saudi Arabia 2",
@@ -92,25 +92,25 @@
         "vpnName": "United States",
         "vpnLocked": false,
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/us.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "United Kingdom",
         "vpnLocked": false,
         "vpnIso": "gb",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/uk.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "France",
         "vpnLocked": false,
         "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/fr.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Italy",
         "vpnLocked": false,
         "vpnIso": "it",
-        "vpnFile": "https://raw.githubusercontent.com/imad-123/callrecorder.github.io/refs/heads/gh-pages/it.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa/refs/heads/main/usa.ovpn"
       },
       {
         "vpnName": "Spain",
@@ -193,6 +193,7 @@
     ]
   }
 }
+
 
 
 
