@@ -1,1 +1,81 @@
-https://fastcleanerserver.com/servers
+{
+  "data": [
+    {
+      "id": "62dec41e90aa697c20ab01d2",
+      "country": "Netherlands",
+      "state": "Bonaire",
+      "countryCode": "Netherlands",
+      "countyImage": "https://fastcleanerserver.com/servers/images/countries/nl.png",
+      "ipAddress": "194.87.79.127",
+      "u_nsm": "vpnuser",
+      "p_nsm": "TOMmatL77BTd",
+      "caFileName": "ca-cert.pem",
+      "status": true,
+      "caFile": "MIIE8DCCAtigAwIBAgIIVKFVhW1JkLQwDQYJKoZIhvcNAQEMBQAwFjEUMBIGA1UEAxMLVlBOIHJvb3QgQ0EwHhcNMjQwNzAyMTAzMzIwWhcNMzQwNjMwMTAzMzIwWjAWMRQwEgYDVQQDEwtWUE4gcm9vdCBDQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALuW2WHR6BiyOiMu+RD0OylT+HQ0WoZ0Cou2CB4YPTFERoJ/ANrxuO8AJyyIhO6qlgkIAplvWHqSUAzSqIWw4a3BaVp52BJCvKe7OA7AWewdv3kfueUG/GMpdA45ZO3YfTynKTVq1wMbHhyhBxvESlcGU6xpxjvwArwA/UkATzEh54rsJskW++rNXEuwmYlwAmr9dLOr5Q9j9DxtdV/0VrmTnCkEeuUCXkvtbGVPQWzXk1B0mR7rwO/H80c6YFOSxbLcGJ9ncGNfbxTiDg0WUeu6p6zPlw+lA1QCPmlL38Ja2GysYaYMQpQBySXx3sNPoNX7mklSO+jd72CcFrsjHsI0onQkdpp+RMA2xHiahTkaIDxWJZVyYlwNW31WCjEMstuzug1GX4k8tMZxYOLQ/0noTu1bB3JVhg/VaNee32wBqjUHRgzePxwA0ZovqozJD8qEbu6VBapUtinROLp/RRVG2c5wFJ5a4Ug27MQbT8BEIYUEj5PAhr24S6ViQqk5V9umg2S7jzsyCozZN4Cl8lz4FMtVcs87/aBYR4kKH9Qal0Cm9+RxJ1QxahFE7tiLW2OMxZj4QWmRtpRNQQGvNuVxb+5dHe18zLi6OfTilCg2/IBnbMy/gdYqeAIvzEaiTJskU4yDxv1rsRrjKDopI3n7K55JwA9+UvG4lUl8GiE/AgMBAAGjQjBAMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMB0GA1UdDgQWBBTigjIUeS67uLXnTRIpNLIC9ngaCzANBgkqhkiG9w0BAQwFAAOCAgEABBUFJ6LOgxvZOiy3BthKYuCHEoOHH5YjwgRoXDmWb0wdcbfAO0zY0UzXb4WEHIq8LByDlSJdYfqVMmIrpwXpjOUawXOI0+Z7Ok+zZiwhG0JNo6kUr6aBg5g7C1IFpZF1cbYTkLjckXkwj4D+hLQb+tEyMUErT1+Y61dCbtWM4+S/j/7htIYm1zV0XhIEua+8Ib6PX1YpH9vB8Jyj1yibrowjoXQp7Efdo2B/n0goH1gNDfqKpz2yECUlQQ6qhrmostKV9s0naVMLxiEswH6IPpMZjuScZA4aMD/tJx7DW26kc2ZquRWa1byckc3kxIgHpDS/7MfpAqvdGl5STXvCbrZmUVXltK7JLtY136jnn61z5O8mld2f7GTBoypmInRH9f/NqW4ZRZusTyT3e0wivtAFgu+wpKtj7BziXtnFeen0pXAXbPm9migJIok5uyMkvYe7gTJStKS8P4CyYDAeJRJc4lYSEm0ZW2kUTuPfuIEW/oHBxDsavfJr95IDa+ea44aOZhi01a0OXWDKNDpi9v/tSNVDMgQjbsoEAeYW90j7k0GXDuHth12MkDZX6F2yofIyG/eCIaiAIFTDo7ECHJ+sBD3S+Kg/5eW4bkKjdOMkKitpqJYyXuJtnKqAwJZXvpZLQr23cwDpCe9ZGZCoY98UO3j8hwHYaS1yxM0i0ko="
+    }
+  ]
+}
+
+⚠️ Note:
+
+Maine structure clean kiya hai taake JSON validator pass kare.
+
+Agar chaho to main poora JSON (sab 5 servers) bhi perfectly formatted bana kar de sakta hoon jo direct VPN app API me use ho jaye.
+
+all countries ka banao
+
+Bilkul! Aapke diye hue 5 VPN servers ka properly formatted JSON sab countries ke saath yeh raha:
+
+{
+  "data": [
+    {
+      "id": "62dec41e90aa697c20ab01d2",
+      "country": "Netherlands",
+      "state": "Bonaire",
+      "countryCode": "Netherlands",
+      "countyImage": "https://fastcleanerserver.com/servers/images/countries/nl.png",
+      "ipAddress": "194.87.79.127",
+      "u_nsm": "vpnuser",
+      "p_nsm": "TOMmatL77BTd",
+      "caFileName": "ca-cert.pem",
+      "status": true,
+      "caFile": "MIIE8DCCAtigAwIBAgIIVKFVhW1JkLQwDQYJKoZIhvcNAQEMBQAwFjEUMBIGA1UEAxMLVlBOIHJvb3QgQ0EwHhcNMjQwNzAyMTAzMzIwWhcNMzQwNjMwMTAzMzIwWjAWMRQwEgYDVQQDEwtWUE4gcm9vdCBDQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALuW2WHR6BiyOiMu+RD0OylT+HQ0WoZ0Cou2CB4YPTFERoJ/ANrxuO8AJyyIhO6qlgkIAplvWHqSUAzSqIWw4a3BaVp52BJCvKe7OA7AWewdv3kfueUG/GMpdA45ZO3YfTynKTVq1wMbHhyhBxvESlcGU6xpxjvwArwA/UkATzEh54rsJskW++rNXEuwmYlwAmr9dLOr5Q9j9DxtdV/0VrmTnCkEeuUCXkvtbGVPQWzXk1B0mR7rwO/H80c6YFOSxbLcGJ9ncGNfbxTiDg0WUeu6p6zPlw+lA1QCPmlL38Ja2GysYaYMQpQBySXx3sNPoNX7mklSO+jd72CcFrsjHsI0onQkdpp+RMA2xHiahTkaIDxWJZVyYlwNW31WCjEMstuzug1GX4k8tMZxYOLQ/0noTu1bB3JVhg/VaNee32wBqjUHRgzePxwA0ZovqozJD8qEbu6VBapUtinROLp/RRVG2c5wFJ5a4Ug27MQbT8BEIYUEj5PAhr24S6ViQqk5V9umg2S7jzsyCozZN4Cl8lz4FMtVcs87/aBYR4kKH9Qal0Cm9+RxJ1QxahFE7tiLW2OMxZj4QWmRtpRNQQGvNuVxb+5dHe18zLi6OfTilCg2/IBnbMy/gdYqeAIvzEaiTJskU4yDxv1rsRrjKDopI3n7K55JwA9+UvG4lUl8GiE/AgMBAAGjQjBAMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMB0GA1UdDgQWBBTigjIUeS67uLXnTRIpNLIC9ngaCzANBgkqhkiG9w0BAQwFAAOCAgEABBUFJ6LOgxvZOiy3BthKYuCHEoOHH5YjwgRoXDmWb0wdcbfAO0zY0UzXb4WEHIq8LByDlSJdYfqVMmIrpwXpjOUawXOI0+Z7Ok+zZiwhG0JNo6kUr6aBg5g7C1IFpZF1cbYTkLjckXkwj4D+hLQb+tEyMUErT1+Y61dCbtWM4+S/j/7htIYm1zV0XhIEua+8Ib6PX1YpH9vB8Jyj1yibrowjoXQp7Efdo2B/n0goH1gNDfqKpz2yECUlQQ6qhrmostKV9s0naVMLxiEswH6IPpMZjuScZA4aMD/tJx7DW26kc2ZquRWa1byckc3kxIgHpDS/7MfpAqvdGl5STXvCbrZmUVXltK7JLtY136jnn61z5O8mld2f7GTBoypmInRH9f/NqW4ZRZusTyT3e0wivtAFgu+wpKtj7BziXtnFeen0pXAXbPm9migJIok5uyMkvYe7gTJStKS8P4CyYDAeJRJc4lYSEm0ZW2kUTuPfuIEW/oHBxDsavfJr95IDa+ea44aOZhi01a0OXWDKNDpi9v/tSNVDMgQjbsoEAeYW90j7k0GXDuHth12MkDZX6F2yofIyG/eCIaiAIFTDo7ECHJ+sBD3S+Kg/5eW4bkKjdOMkKitpqJYyXuJtnKqAwJZXvpZLQr23cwDpCe9ZGZCoY98UO3j8hwHYaS1yxM0i0ko="
+    },
+    {
+      "id": "6329eb44ae5c4e02ce25505e",
+      "country": "Germany",
+      "state": "DE",
+      "countryCode": "Germany",
+      "countyImage": "https://fastcleanerserver.com/servers/images/countries/de.png",
+      "ipAddress": "195.133.47.28",
+      "u_nsm": "vpnuser",
+      "p_nsm": "mxqLJkcfuJS3AU6t",
+      "caFileName": "ca-cert.pem",
+      "status": true,
+      "caFile": "MIIE8DCCAtigAwIBAgIIZPGbOF4zK7UwDQYJKoZIhvcNAQEMBQAwFjEUMBIGA1UEAxMLVlBOIHJvb3QgQ0EwHhcNMjQwNzAyMTMxOTMyWhcNMzQwNjMwMTMxOTMyWjAWMRQwEgYDVQQDEwtWUE4gcm9vdCBDQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBANmiPykwgmfS/xO2altVmeMnn8yqld6znPb6BRnrua9kfghnlJ4udVCtwOlT4guX1T+UUQtGd8Y2HZPxVEroN1hQ6bovB7NAM0jELb+ZY/C73FrZBlRBSsT/PjXgSg9ET6uTUy6UkhaAWOb7aDWJjwn3n2ZnuLeAxPHo5MYqthhPgd2KLValawNs1PI+Mk+myL4KHsDYQmgCGWlEkX//s5tgxmfPmAohspNrGvLdSoOcU7593GWbdLKbkFAaIlzM/OdJJC3xhUKKItwytHWBLVw9mEb86eOkbc/TRzgtZDDdlFv5W8JaFaVJYujQppUIQ5YVKPMRpk0t8lx6FuzsGT4rN90wiQjtH7uOTbfcecMnfMgAKMcrfk/LDaKsnb7bolZ5Tql29pQrvJINO7Pc9hVrowSBJXHk1QrfdkuPl+HPtn/BGdlOEc2GTjObVKTQh2NDnEag5riGCginVCj0u8Os0s8aIGPa4IEbm5irgcuqafZ10yH4WXNN4jiOPbiMmmv6N9lyZRAAoh9vdgRorntOeWmhvkWtG92AmUGmvdtfp7U+mcdVu0SgGad/BDyeAlhj7CB0Ypak3PyafrH01f5FSIIKvwvDLLzrUBXNIsL0f8RsLP/FB8niqSXqZz143SnpkPGxfq+yYPZUX5Z1WthZ0XhcS4yBaNn4NDstf8WRAgMBAAGjQjBAMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMB0GA1UdDgQWBBT1ti0jaGGS0b4+s3Z7CBOIj5mq8zANBgkqhkiG9w0BAQwFAAOCAgEAakN78oLbXg2dcIrVwtRNci0HAtMN64IF+XqbUhUcbGjb00/K/8BYjdEVgQnXaiEd//03Ke2vWPuJAVd+Q6gATuAMfFuXLd/qjhIj7AA7D3toTLx/IbPgE6TtH1+PT6Vn8+AebaFcORIdEHEde7S+8GThdgyx1rwARKD0kJEsJtPYU8ya6frHrs81wOFAbWKzVHRoDiJSnC0I0ZUThdGvZWNk38q+oGtgYuSPVuj0tBMsUHyoBGeZv/ME0L6eo1sF9GpUOlFN3g5UG7KWt6qE33jb0M5diRIc2wxc/t/iBfOP8TNWebdmX3CTozQxd/Da8tLlsIYBiysXiWpijxL9U5abq3V5P0w6UWVmUjj+6bKffmNfCV//3wc1VDQc37/Lyxyz202LIYuaRjQgC1NYalEQANjIi4VAkuU3xap0cNC/ToV56AlGQpQwBig5kf35R5303aya2Yb9BvLFjMZXlgcEqjy720I0eRmm2iiCDVWr+Pr9h41/a9eOieA85hvrdJAfJF1zzdIyMvfAMg9/QT0/M//FXoT6m8RZQQVHgKINXcelt/aRyGgvDmrfANfQOxiMbuL73p9UbzbMmBtoEhjpTSyFeGOo2ACQlR5NSv0kvwjQl3jw0iLTTk8ZehTTH1TSxWQDctnxbegfZ6SUxmuonEDXUPCGoGUW+n17POg="
+    },
+    {
+      "id": "62df653390aa697c20ab01db",
+      "country": "Switzerland",
+      "state": "CH",
+      "countryCode": "Switzerland",
+      "countyImage": "https://fastcleanerserver.com/servers/images/countries/ch.png",
+      "ipAddress": "194.87.109.26",
+      "u_nsm": "vpnuser",
+      "p_nsm": "qdcJKykdqGTe",
+      "caFileName": "ca-cert.pem",
+      "status": true,
+      "caFile": "MIIE8DCCAtigAwIBAgIIanzhD2qsX8swDQYJKoZIhvcNAQEMBQAwFjEUMBIGA1UEAxMLVlBOIHJvb3QgQ0EwHhcNMjQwNzAyMTMxNjA4WhcNMzQwNjMwMTMxNjA4WjAWMRQwEgYDVQQDEwtWUE4gcm9vdCBDQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAM4WX6r4X9y4Ydq53tPgv7A9pn1MlxKn5v+xQAKFiROz+0czYIRBzKhSp4MpBvbn/I52Owu7iUXkDDLcqLHgOPEmuoR2a610aaEkXZFxxn+T0xOQwFY5wXblaGy9p3INb2Vox6A729Npi9YkJ9SL4AaLt2hztoyxbe0ok6viRRZzyDayYMJfPbIF7Q/43hsmU3PpQd4cdRvixgRhyg+tZ1sg9pji1BhrdVjbSEDjgFplxvy8GXsdp7JZZ37SWYZTAf58CkDl8SvFUJtoDixVuezD3ZsOAbNnnomsu/kmv73Fq7yKFHV1BI5uHTvU7dNIdhEewerDCT6RfTw0T/7SSP/P18ECz59EdP5+2GS0vd/x0odBIDHDeikElJ1HDnYS9hsPujF16rjLFxjL6WbMOstio4xRSR7sUb0Wz5FxdmfsnvLjgmXwKzYxIM//S3S+BMSgD5+4ZW0HTTfbszyD5byHR09OHJl4roKCvmFwqc8r38FrxpxZZrbabCHn6BQsrjUolmQYCLYSnp4axv8eTPJFDkomW3WfxMabOxJHjAiNnt8tWjwLDbrBe6jeiI/Rx6sCm8+IAcIHEY21xdQGiwis6o3kdG7nrdwt98DeKzE0zTWTt9Kc5FxLXZQKkQFnfZgQCv7S66srqyRJeo15m909dYfQaTXL01oIgL/vDtKxAgMBAAGjQjBAMA8GA1UdEwEB/wQFMAMBAf8wDgYDVR0PAQH/BAQDAgEGMB0GA1UdDgQWBBT/usnzUHr0Nm1l/behUtoVZKVE5DANBgkqhkiG9w0BAQwFAAOCAgEAuLNJJIQEy0wuH2xmEcoH6BYeN1avTpXTugR9V/7rdcW4K/ri7cUZJR4ASudDP6hQOUva0s2gA6LHZen5A7gweh0NwLKSSJmKpkx0zvEaE4XvJa8Oe3Yy3EOrTywBzObp8z0Y7YyKy0I0CLIMAJDiWVgJW29IbcrdzNPqHPU5PJ17B7U6iJCDQwCu2rS6mNu88iyJ3DuTyzKWiggL2RFp74Q2r8gNAieKWbOXTHXPjPmL4D6dp8YFraxfB2LQ1z5isb6LVuNJ2FSIOZV2afnnN/0NJXb263T5VxENP40gSa6CmuPFjnv8NamM+0GQ7ZB52ROVEhpIPqZKL12Ux3Mfsv3bX9Aupjzi+1W3LVxMH6R4tJu9YGygBts74Ehlehkz6WpPY7kSl1GijJ90OvhVkjEXAg5TkB3/NLvS+wURwswEf77UgFlGeQ+fDZ6gmV/LQ6ygFcYSIjQ+yY2+7P6Bz5G4W14Z68YM6oupyWcGDp5kYjvJAbRrwbuehMFK9oUZmFUe842xA2wmZOMzCEzspuSuBp1nDcW81FS55nkHc125g93RBBIEfIB5UVn7OEiHwYXhylL9Pr6CDL9xqJkl6JeKiRI1M2ORt481haSg0XIWNNiTkGY+0D6EdZP3r3SwLbzgvyMlWBLR5ZTu9A6VzLq/zDSfOXz8l/09I0u00YU="
+    },
+    {
+      "id": "62df653390aa697c20ab01dbgggggggg",
+      "country": "United Kingdom",
+      "state": "GB",
+      "countryCode": "United_Kingdom",
+      "countyImage": "https://fastcleanerserver.com/servers/images/countries/gb.png",
+      "ipAddress": "109.94.208.12",
+      "u_nsm": "vpnuser",
+      "p_nsm": "QWhJJGTwkobF",
+      "caFileName": "ca-cert.pem",
+      "status": true,
+      "caFile": "MIIE8DCCAtigAwIBAgIIIGTVqNvZsqUwDQYJKoZIhvcNAQEMBQAwFjEUMBIGA1UEAxMLVlBOIHJvb3QgQ0EwHhcNMjIxMTE3MTU1OTEyWhcNMzIxMTE0MTU1OTEyWjAWMRQwEgYDVQQDEwtWUE4gcm9vdCBDQTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgo"}]}
