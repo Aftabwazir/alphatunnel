@@ -12,8 +12,7 @@
   "RewardNetwork": ["admob","yandex"],
   "NativeNetwork": ["admob","yandex"],
   "AdInterval": 3,
-  "NativeAdRow": 6
-}
+  "NativeAdRow": 6,
 
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-7007745642273136/3246506903",
