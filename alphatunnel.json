@@ -5,12 +5,12 @@
   },
 
   "AdsController": {
-    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
- "BannerNetwork"          : "yandex",
-    "InterstitialNetwork"    : "yandex",
-    "InterstitialNetworkHome": "yandex",
-    "RewardNetwork"          : "yandex",
-    "NativeNetwork"          : "yandex",
+    "README": "Hybrid mode: AdMob first, fallback to Yandex automatically",
+    "BannerNetwork": "hybrid",
+    "InterstitialNetwork": "hybrid",
+    "InterstitialNetworkHome": "hybrid",
+    "RewardNetwork": "hybrid",
+    "NativeNetwork": "hybrid",
     "AdInterval": 3,
     "NativeAdRow": 6,
 
@@ -50,13 +50,13 @@
     "VpnList": [
       {
         "vpnName": "Arab Emirates ",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -68,7 +68,7 @@
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "sa",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -80,19 +80,19 @@
       },
       {
         "vpnName": "United States",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
         "vpnName": "United Kingdom",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "gb",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
         "vpnName": "France",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "fr",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -104,7 +104,7 @@
       },
       {
         "vpnName": "Canada",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ca",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
