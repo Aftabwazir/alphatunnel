@@ -5,13 +5,15 @@
   },
 
   "AdsController": {
-    "BannerNetwork": "hybrid",
-    "InterstitialNetwork": "hybrid",
-    "InterstitialNetworkHome": "hybrid",
-    "RewardNetwork": "hybrid",
-    "NativeNetwork": "hybrid",
-    "AdInterval": 3,
-    "NativeAdRow": 6,
+  "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
+  "BannerNetwork": ["admob","yandex"],
+  "InterstitialNetwork": ["admob","yandex"],
+  "InterstitialNetworkHome": ["admob","yandex"],
+  "RewardNetwork": ["admob","yandex"],
+  "NativeNetwork": ["admob","yandex"],
+  "AdInterval": 3,
+  "NativeAdRow": 6
+}
 
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-7007745642273136/3246506903",
@@ -49,13 +51,13 @@
     "VpnList": [
       {
         "vpnName": "Arab Emirates ",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "ae",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "ae",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -67,7 +69,7 @@
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "sa",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -85,13 +87,13 @@
       },
       {
         "vpnName": "United Kingdom",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "gb",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
         "vpnName": "France",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "fr",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -103,7 +105,7 @@
       },
       {
         "vpnName": "Canada",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "ca",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
