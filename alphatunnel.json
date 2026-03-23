@@ -1,18 +1,18 @@
 {
   "AppRedirect": {
     "status": false,
-    "redirectURL": "https://play.google.com/store/apps/details?id=com.piupiuapps.coloringglitterunicorns"
+    "redirectURL": ""
   },
 
   "AdsController": {
-  "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
-  "BannerNetwork": ["admob","yandex"],
-  "InterstitialNetwork": ["admob","yandex"],
-  "InterstitialNetworkHome": ["admob","yandex"],
-  "RewardNetwork": ["admob","yandex"],
-  "NativeNetwork": ["admob","yandex"],
-  "AdInterval": 3,
-  "NativeAdRow": 6,
+    "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
+    "BannerNetwork": "admob",
+    "InterstitialNetwork": "admob",
+    "InterstitialNetworkHome": "admob",
+    "RewardNetwork": "admob",
+    "NativeNetwork": "yandex",
+    "AdInterval": 3,
+    "NativeAdRow": 2,
 
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-7007745642273136/3246506903",
@@ -50,7 +50,7 @@
     "VpnList": [
       {
         "vpnName": "Arab Emirates ",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -62,13 +62,13 @@
       },
       {
         "vpnName": "Germany",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "de",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
         "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "sa",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
@@ -86,7 +86,7 @@
       },
       {
         "vpnName": "United Kingdom",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "gb",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
