@@ -5,7 +5,6 @@
   },
 
   "AdsController": {
-    "README": "Hybrid mode: AdMob first, fallback to Yandex automatically",
     "BannerNetwork": "hybrid",
     "InterstitialNetwork": "hybrid",
     "InterstitialNetworkHome": "hybrid",
@@ -80,7 +79,7 @@
       },
       {
         "vpnName": "United States",
-        "vpnLocked": true,
+        "vpnLocked": false,
         "vpnIso": "us",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
