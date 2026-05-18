@@ -6,13 +6,13 @@
 
   "AdsController": {
     "README": "To run ads for each network, enter one of the following: 'admob' , 'applovin' , 'hws'  , 'yandex'",
-    "BannerNetwork": "admob",
-    "InterstitialNetwork": "admob",
-    "InterstitialNetworkHome": "admob",
-    "RewardNetwork": "admob",
-    "NativeNetwork": "yandex",
-    "AdInterval": 3,
-    "NativeAdRow": 4,
+    "BannerNetwork": "hws",
+    "InterstitialNetwork": "hws",
+    "InterstitialNetworkHome": "hws",
+    "RewardNetwork": "hws",
+    "NativeNetwork": "hws",
+    "AdInterval": 2,
+    "NativeAdRow": 3,
 
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-7007745642273136/3246506903",
@@ -28,7 +28,7 @@
       "ApplovinReward": "",
       "ApplovinNative": "",
 
-      "HuaweiAppId": "",
+      "HuaweiAppId": "C115920659",
       "HuaweiBanner": "",
       "HuaweiInterstitial": "",
       "HuaweiInterstitialHome": "",
@@ -52,7 +52,7 @@
         "vpnName": "Arab Emirates ",
         "vpnLocked": true,
         "vpnIso": "ae",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/uaevpnfile/refs/heads/main/uaevpn.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
@@ -67,58 +67,33 @@
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
       {
-        "vpnName": "Saudi Arabia",
-        "vpnLocked": true,
-        "vpnIso": "sa",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia 2",
-        "vpnLocked": false,
-        "vpnIso": "sa",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
         "vpnName": "United States",
         "vpnLocked": false,
         "vpnIso": "us",
         "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
       },
+       {
+        "vpnName": "United States 2",
+        "vpnLocked": false,
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usavpnfile/refs/heads/main/usavpn.ovpn"
+      },
       {
         "vpnName": "United Kingdom",
         "vpnLocked": true,
         "vpnIso": "gb",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/ukvpnfile/refs/heads/main/ukvpn.ovpn"
       },
       {
         "vpnName": "France",
         "vpnLocked": false,
         "vpnIso": "fr",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/francevpnfile/refs/heads/main/francevpn.ovpn"
       },
-      {
-        "vpnName": "Italy",
-        "vpnLocked": false,
-        "vpnIso": "it",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
         "vpnName": "Canada",
         "vpnLocked": false,
         "vpnIso": "ca",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "India",
-        "vpnLocked": true,
-        "vpnIso": "in",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Morocco",
-        "vpnLocked": false,
-        "vpnIso": "ma",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/canadavpnfile/refs/heads/main/canadvpn.ovpn"
       }
     ]
   }
