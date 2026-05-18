@@ -11,7 +11,7 @@
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork": "yandex",
     "NativeNetwork": "yandex",
-    "AdInterval": 2,
+    "AdInterval": 3,
     "NativeAdRow": 3,
 
     "AdPlacement": {
@@ -58,19 +58,19 @@
         "vpnName": "Arab Emirates 2",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmivpnfile/refs/heads/main/zalmi.ovpn"
       },
       {
         "vpnName": "Germany",
         "vpnLocked": true,
         "vpnIso": "de",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmivpnfile/refs/heads/main/zalmi.ovpn"
       },
       {
         "vpnName": "United States",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmivpnfile/refs/heads/main/zalmi.ovpn"
       },
        {
         "vpnName": "United States 2",
@@ -86,7 +86,7 @@
       },
       {
         "vpnName": "France",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/francevpnfile/refs/heads/main/francevpn.ovpn"
       },
