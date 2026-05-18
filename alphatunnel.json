@@ -49,7 +49,7 @@
     "VpnPassword": "Bannu@@1",
     "VpnList": [
       {
-        "vpnName": "Arab Emirates ",
+        "vpnName": "Arab Emirates",
         "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/uaevpnfile/refs/heads/main/uaevpn.ovpn"
@@ -90,6 +90,7 @@
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/francevpnfile/refs/heads/main/francevpn.ovpn"
       },
+      {
         "vpnName": "Canada",
         "vpnLocked": false,
         "vpnIso": "ca",
