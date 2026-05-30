@@ -52,7 +52,7 @@
         "vpnName": "Arab Emirates",
         "vpnLocked": true,
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/uaevpnfile/refs/heads/main/uaevpn.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/dubai.ovpn"
       },
       {
         "vpnName": "Arab Emirates 2",
@@ -73,10 +73,10 @@
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmivpnfile/refs/heads/main/zalmi.ovpn"
       },
        {
-        "vpnName": "United States 2",
+        "vpnName": "United States 2 TCP",
         "vpnLocked": false,
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usavpnfile/refs/heads/main/usavpn.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa2tcp.ovpn"
       },
       {
         "vpnName": "United Kingdom",
@@ -85,16 +85,28 @@
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/ukvpnfile/refs/heads/main/ukvpn.ovpn"
       },
       {
-        "vpnName": "France",
+        "vpnName": "France TCP",
         "vpnLocked": true,
         "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/francevpnfile/refs/heads/main/francevpn.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/frtcp.ovpn"
       },
       {
-        "vpnName": "Canada",
+        "vpnName": "France UDP",
+        "vpnLocked": true,
+        "vpnIso": "fr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/frudp.ovpn"
+      },
+      {
+        "vpnName": "Canada TCP",
         "vpnLocked": false,
         "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/canadavpnfile/refs/heads/main/canadvpn.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/catcp.ovpn"
+      },
+      {
+        "vpnName": "Canada UDP",
+        "vpnLocked": false,
+        "vpnIso": "ca",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/caudp.ovpn"
       }
     ]
   }
