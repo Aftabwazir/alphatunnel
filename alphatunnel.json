@@ -78,11 +78,12 @@
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn"
       },
-      {
+         {
         "vpnName": "Canada",
         "vpnLocked": false,
         "vpnIso": "ca",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn"
-        }
-  ]
+      }
+    ]
+  }
 }
