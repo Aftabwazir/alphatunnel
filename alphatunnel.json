@@ -83,7 +83,6 @@
         "vpnLocked": false,
         "vpnIso": "ca",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn"
-      }
-      }
-    ]
-  }
+        }
+  ]
+}
