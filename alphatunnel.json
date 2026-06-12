@@ -106,7 +106,7 @@
         "vpnName": "Canada",
         "vpnLocked": false,
         "vpnIso": "ca",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn"
       },
       {
         "vpnName": "India",
