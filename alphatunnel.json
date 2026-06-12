@@ -61,7 +61,13 @@
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
       },
       {
-        "vpnName": "United States",
+        "vpnName": "United States 1",
+        "vpnLocked": false,
+        "vpnIso": "us",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
+      },
+      {
+        "vpnName": "United States 2",
         "vpnLocked": false,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn"
