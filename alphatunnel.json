@@ -52,74 +52,38 @@
         "vpnName": "Arab Emirates ",
         "vpnLocked": false,
         "vpnIso": "ae",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Arab Emirates 2",
-        "vpnLocked": false,
-        "vpnIso": "ae",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn"
       },
       {
         "vpnName": "Germany",
         "vpnLocked": false,
         "vpnIso": "de",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia",
-        "vpnLocked": false,
-        "vpnIso": "sa",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Saudi Arabia 2",
-        "vpnLocked": false,
-        "vpnIso": "sa",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
       },
       {
         "vpnName": "United States",
         "vpnLocked": false,
         "vpnIso": "us",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn"
       },
       {
         "vpnName": "United Kingdom",
         "vpnLocked": false,
         "vpnIso": "gb",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ukvpn.ovpn"
       },
       {
         "vpnName": "France",
         "vpnLocked": false,
         "vpnIso": "fr",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Italy",
-        "vpnLocked": false,
-        "vpnIso": "it",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn"
       },
       {
         "vpnName": "Canada",
         "vpnLocked": false,
         "vpnIso": "ca",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn"
-      },
-      {
-        "vpnName": "India",
-        "vpnLocked": true,
-        "vpnIso": "in",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
-      },
-      {
-        "vpnName": "Morocco",
-        "vpnLocked": false,
-        "vpnIso": "ma",
-        "vpnFile": "https://www.zalmiltd.com/zalmi.ovpn"
+      }
       }
     ]
   }
-}
