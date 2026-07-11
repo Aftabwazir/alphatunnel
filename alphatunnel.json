@@ -56,7 +56,7 @@
       },
       {
         "vpnName": "Germany",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "de",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
       },
