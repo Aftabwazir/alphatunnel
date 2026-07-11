@@ -11,8 +11,8 @@
     "InterstitialNetworkHome": "yandex",
     "RewardNetwork"          : "yandex",
     "NativeNetwork"          : "yandex",
-    "AdInterval": 3,
-    "NativeAdRow": 6,
+    "AdInterval": 2,
+    "NativeAdRow": 3,
 
     "AdPlacement": {
       "AdMobBanner": "ca-app-pub-7007745642273136/3246506903",
