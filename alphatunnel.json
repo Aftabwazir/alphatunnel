@@ -50,7 +50,7 @@
     "VpnList": [
       {
         "vpnName": "Arab Emirates ",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn"
       },
@@ -62,13 +62,13 @@
       },
       {
         "vpnName": "United States 1",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn"
       },
       {
         "vpnName": "United States 2",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn"
       },
@@ -80,13 +80,13 @@
       },
       {
         "vpnName": "France",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn"
       },
          {
         "vpnName": "Canada",
-        "vpnLocked": false,
+        "vpnLocked": true,
         "vpnIso": "ca",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn"
       }
